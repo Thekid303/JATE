@@ -15,6 +15,8 @@ This application requires several dependencies. Install with the following comma
 ```
 npm i
 ```
+npm start
+```
       
 ## Usage
 Live heroku application  
